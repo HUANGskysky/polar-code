@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>PolarCodes.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>Test_bec.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>Test_double_ei.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>pc_construction.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>pc_simulate.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>B31E0A2A181CBCF100E941E5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B3B7193B181B092300055AD4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B3B71975181B0C5500055AD4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B3B71991181B0CFC00055AD4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B3E4D42F1843CE3700EAA309</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
